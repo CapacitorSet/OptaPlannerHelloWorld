@@ -8,7 +8,7 @@
 	</scoreDirectorFactory>
 	<localSearch>
 		<termination>
-			<secondsSpentLimit>1</secondsSpentLimit>
+			<secondsSpentLimit>10</secondsSpentLimit>
 			<!-- <bestScoreLimit>0hard/0soft</bestScoreLimit> -->
 		</termination>
 		<acceptor>

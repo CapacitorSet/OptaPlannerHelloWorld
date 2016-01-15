@@ -8,10 +8,7 @@ import org.btrg.optaplannerhellotest.domain.HelloEntity;
 
 global HardSoftScoreHolder scoreHolder;
 
-// ############################################################################
-// Hard constraints
-// ############################################################################
-
+// Ciascuna di queste regole è un "hard constraint", che non può essere violato
 
 rule "notEnoughHellos"
     when
